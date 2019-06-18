@@ -1,4 +1,4 @@
-# waiting to do
+# telegraf_influxdb_grafana 分布式服务器集群监控
 ## Install
 ### 1. install influx and grafana
 
